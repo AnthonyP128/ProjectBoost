@@ -251,8 +251,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 709e53889c83c4ecc88d84e6c2453c6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rcsThrust: 250
-  thrustSpeed: 1750
+  rcsThrust: 220
+  thrustSpeed: 1000
 --- !u!108 &705507994 stripped
 Light:
   m_CorrespondingSourceObject: {fileID: 5471039072776722720, guid: cd46bb52375e14f599745ff377ed74ea,
